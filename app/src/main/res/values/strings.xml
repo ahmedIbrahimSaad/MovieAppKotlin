@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">Movie APP</string>
+    <string name="search">Search</string>
+    <string name="no_date">No Date</string>
+    <string name="no_overview">No Overview</string>
+    <string name="emptydata">Please enter movie name</string>
+</resources>
